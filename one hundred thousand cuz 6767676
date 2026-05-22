@@ -1584,9 +1584,10 @@ G2L["c5"]["Position"] = UDim2.new(0.48297, 0, 0.65147, 0);
 -- StarterGui.projectglock.top.Gui.back.executor.ScrollingFrame
 G2L["c6"] = Instance.new("ScrollingFrame", G2L["13"]);
 G2L["c6"]["Active"] = true;
+G2L["c6"]["ScrollingDirection"] = Enum.ScrollingDirection.Y;
 G2L["c6"]["ScrollingEnabled"] = false;
 G2L["c6"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["c6"]["AutomaticCanvasSize"] = Enum.AutomaticSize.XY;
+G2L["c6"]["AutomaticCanvasSize"] = Enum.AutomaticSize.Y;
 G2L["c6"]["Size"] = UDim2.new(0, 120, 0, 402);
 G2L["c6"]["ScrollBarImageColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["c6"]["Position"] = UDim2.new(0.81942, 0, 0.02469, 0);
