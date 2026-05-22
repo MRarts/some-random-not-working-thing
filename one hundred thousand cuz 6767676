@@ -1465,7 +1465,7 @@ G2L["bc"]["Name"] = [[textboxback]];
 G2L["bc"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 -- [ERROR] cannot convert BottomImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["bc"]["BottomImage"] = [[]];
-G2L["bc"]["AutomaticCanvasSize"] = Enum.AutomaticSize.XY;
+G2L["bc"]["AutomaticCanvasSize"] = Enum.AutomaticSize.Y;
 G2L["bc"]["Size"] = UDim2.new(0, 488, 0, 240);
 G2L["bc"]["ScrollBarImageColor3"] = Color3.fromRGB(223, 223, 223);
 G2L["bc"]["Position"] = UDim2.new(0.01335, 0, 0.02469, 0);
@@ -1491,7 +1491,7 @@ G2L["be"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["be"]["TextYAlignment"] = Enum.TextYAlignment.Top;
 G2L["be"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["be"]["FontFace"] = Font.new([[rbxasset://fonts/families/RobotoMono.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-G2L["be"]["AutomaticSize"] = Enum.AutomaticSize.XY;
+G2L["be"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["be"]["MultiLine"] = true;
 G2L["be"]["ClearTextOnFocus"] = false;
 G2L["be"]["Size"] = UDim2.new(0, 800, 0, 1012);
